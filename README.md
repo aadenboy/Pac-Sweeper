@@ -3,4 +3,4 @@
 # Pac-Sweeper
 The (unofficial) merge of Pac-Man and Minesweeper!
 
-ths i
+go to [releases](https://github.com/aadenboy/Pac-Sweeper/releases)
